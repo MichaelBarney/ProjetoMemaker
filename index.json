@@ -1,0 +1,26 @@
+{
+    "pessoas":[
+        {
+            "nome": "Michael",
+            "idade": 21,
+            "Masculino": true,
+            "endereco":{
+                "rua": "Rua Capitão Zuzinha",
+                "numero": 237,
+                "Apt": 501
+            },
+            "coresFavoritas":["azul", "preto"]
+        },
+        {
+            "nome": "Ana",
+            "idade": 19,
+            "Masculino": false,
+            "endereco":{
+                "rua": "João Cardoso Aires",
+                "numero": 200,
+                "Apt": 200
+            },
+            "coresFavoritas":["vermelho", "branco"]
+        }
+    ]
+}
