@@ -9,7 +9,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest(async (request
     const agent = new WebhookClient({ request, response });
     
     function welcome(agent) {
-        agent.add(`Welcome to my agent!`);
+        agent.add(`Bem bindo ao meu agente!`);
     }
 
     async function temperatura(cidade){
