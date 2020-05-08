@@ -1,7 +1,7 @@
 # Projeto Memaker
-Projeto criado no curso de Chatbots da Memaker em 2020
+Projeto criado para o curso de Aplicativos da Maemaker
 
 ## Estrutura
- - Usamos o Dialogflow para construção de Coversas
- - Usamos o Firebase para Hospedar o Código
- - Programamos em Javascript
+ - Usamos o Android Studio para construir o App
+ - Usamos o Playstore para vender o App
+ - Programamos em Kotlin
