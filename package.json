@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "actions-on-google": "^2.12.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dialogflow-fulfillment": "git+https://github.com/naranjja/dialogflow-fulfillment-nodejs.git",
     "firebase-admin": "^8.9.0",
     "firebase-functions": "^3.3.0"
